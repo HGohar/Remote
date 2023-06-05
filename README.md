@@ -12,3 +12,5 @@ git remote add <имя для репозитория> <url-адрес репоз
 ```
 git pull
 ```
+
+some changes
